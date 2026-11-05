@@ -1,2 +1,1 @@
-# git-tag-labFixed typo in README
-Added new feature X
+Refactored codebase for improved performance
