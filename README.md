@@ -1,1 +1,1 @@
-# git-tag-lab
+# git-tag-labFixed typo in README
